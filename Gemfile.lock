@@ -416,7 +416,7 @@ DEPENDENCIES
   awesome_print
   aws-ses (~> 0.6.0)
   bootsnap (>= 1.1.0)
-  bootstrap (~> 4.0.0)
+  bootstrap
   byebug
   capybara (>= 2.15)
   chromedriver-helper
