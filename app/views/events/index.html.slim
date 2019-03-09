@@ -1,0 +1,6 @@
+= calendar number_of_days: 7, events: @events do |date, events|
+  = date.day
+
+  - events.each do |event|
+    div
+      = event.name
